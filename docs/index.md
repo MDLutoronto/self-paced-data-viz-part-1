@@ -1,8 +1,14 @@
 ---
 title: "Self-Paced Online Course: Data Visualization - An Introduction (Part 1 – Theory and Critique)"
 layout: "home"
-description: ""
+description: "This page provides access to a Data Visualization self-paced online Quercus course that focuses on data viz theory and provides opportunities to practice critiquing visualizations."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
 # Self-Paced Online Course: Data Visualization - An Introduction (Part 1 – Theory and Critique)
@@ -17,4 +23,6 @@ Self\-enroll in this course with your UTORID. If you don't have one, [contact us
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/DC8HHW)
 
-Technique: [Data Visualization](/technique/data-visualization)**Date Created:** 2025\-01\-24**Updated:** 2025\-02\-10
+Technique: [Data Visualization](/technique/data-visualization)
+
+**Date Created:** 2025\-01\-24 **Updated:** 2025\-02\-10
