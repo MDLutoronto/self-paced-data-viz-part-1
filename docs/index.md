@@ -23,6 +23,6 @@ Self\-enroll in this course with your UTORID. If you don't have one, [contact us
 
 [**COURSE LINK**](https://q.utoronto.ca/enroll/DC8HHW)
 
-Technique: [Data Visualization](/technique/data-visualization)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization)
 
 **Date Created:** 2025\-01\-24 **Updated:** 2025\-02\-10
