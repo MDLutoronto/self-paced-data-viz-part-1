@@ -18,7 +18,7 @@ This page provides access to a Data Visualization self-paced online Quercus cour
 
 **Course Description:**
 
-Through a combination of lecture and activities, this self-paced online course will use a data visualization workflow model to introduce participants to best practices and guidelines for designing effective visualizations and evaluating visualizations. There will then be an activity to apply best practices to critique visualizations. For more information on Data Visualization, including topics covered in the course, and services offered by the libraries, see our [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started).
+Through a combination of lecture and activities, this self-paced online course will use a data visualization workflow model to introduce participants to best practices and guidelines for designing effective visualizations and evaluating visualizations. There will then be an activity to apply best practices to critique visualizations. For more information on Data Visualization, including topics covered in the course, and services offered by the libraries, see our [Data Visualization Guide](https://library.utoronto.ca/use/service/data-cleaning-analysis-and-visualization).
 
 Self-enroll in this course with your UTORID. If you don't have one, [contact us](https://library.utoronto.ca/contact-us/data-maps).
 
